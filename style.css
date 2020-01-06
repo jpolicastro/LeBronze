@@ -2,8 +2,10 @@ body, html {
     width: 100%;
     height: 100%;
     font-family: "Tangerine", cursive;
-    background: url(Restaurantbar.jpg);
+    background: url(Restaurantbar.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
